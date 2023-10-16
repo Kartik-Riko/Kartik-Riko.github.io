@@ -2,7 +2,7 @@
 <p align="center">
   <i>A web-based presentation resource, for explaining personal cyber security to humans</i>
   <br/><br />
-  <kbd><br>~ <a href="https://Kartik-Riko.github.io/"><b>Presentation</b></a> ~<br><br></kbd>
+  <kbd><br>~ <a href="https://Kartik-Riko/cyber-defence-presentation.github.io/"><b>Presentation</b></a> ~<br><br></kbd>
   <kbd><br>~ <a href="https://github.com/Lissy93/cyber-defence-presentation/raw/master/handout-tldr.pdf"><b>PDF Hand-Out</b></a> ~<br><br></kbd>
   <kbd><br>~ <a href="https://github.com/Lissy93/cyber-defence-presentation/"><b>Source Code</b></a> ~<br><br></kbd>
   <br/><br />
@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://lissy93.github.io/cyber-defence-presentation/"><img align="right" width="400" src="https://github.com/Lissy93/cyber-defence-presentation/blob/master/cyber-defence-demo.gif?raw=true" /></a>
+<a href="https://Kartik-Riko/cyber-defence-presentation.github.io/"><img align="right" width="400" src="https://github.com/Lissy93/cyber-defence-presentation/blob/master/cyber-defence-demo.gif?raw=true" /></a>
 
 ## Intro
 This is a resource to aid in giving cyber security presentations, aimed at less technical audiences.
