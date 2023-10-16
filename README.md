@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://Kartik-Riko/cyber-defence-presentation.github.io/"><img align="right" width="400" src="https://github.com/Lissy93/cyber-defence-presentation/blob/master/cyber-defence-demo.gif?raw=true" /></a>
+<a href="https://Kartik-Riko/cyber-defence-presentation.github.io/"><img align="right" width="400" src="https://github.com/Kartik-Riko/cyber-defence-presentation/blob/master/cyber-defence-demo.gif?raw=true" /></a>
 
 ## Intro
 This is a resource to aid in giving cyber security presentations, aimed at less technical audiences.
