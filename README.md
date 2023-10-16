@@ -20,8 +20,6 @@ The slide show itself is very sparce, with the bulk of content intended to be de
 The slideshow can be navigated either with arrow keys or vim bindings: use <kbd>↓</kbd> to cycle through slides within a section, and <kbd>→</kbd> to go to the next section. Press <kbd>Esc</kbd> at anytime to see an overview. Full-screen mode can be enabled with <kbd>F</kbd>, and <kbd>V</kbd> can be used to pause or resume the presentation.
 
 
-> About: _I wrote this in 2018, while in the Army, and it was part of a security seminar I gave to the senior officers within our unit._
-
 ---
 
 ## See Also
@@ -41,7 +39,7 @@ You can run the app by serving the project root directly, with any CDN or static
 ---
 
 <p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2018</i><br>
+  <i>© <a href="https://aliciasykes.com">Kartik Gupta</a> 2023</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
 </p>
